@@ -1,8 +1,5 @@
 # ai-case-study
 This is a research paper on the Music Generation AI company Suno AI.
-
-# ai-case-study
-This is a research paper on the Music Generation AI company Suno AI.
 The AI Music Revolution
 
 
@@ -54,9 +51,9 @@ Deep learning, music separation, and specialized generation algorithms are ideal
 
 ## Sources
 
-https://suno.com/about
-https://www.rollingstone.com/music/music-features/suno-ai-chatgpt-for-music-1234982307/
-https://readwrite.com/what-is-suno-ai-the-music-generator-making-waves/
-https://www.semrush.com/website/suno.ai/competitors/
-https://www.sheeshmedia.com/articles/ai-and-music-technology-the-future-of-music-production
-https://www.theguardian.com/technology/2024/apr/13/ai-generated-music-app-suno-ai-impact-musicians-music-rights
+*https://suno.com/about
+*https://www.rollingstone.com/music/music-features/suno-ai-chatgpt-for-music-1234982307/
+*https://readwrite.com/what-is-suno-ai-the-music-generator-making-waves/
+*https://www.semrush.com/website/suno.ai/competitors/
+*https://www.sheeshmedia.com/articles/ai-and-music-technology-the-future-of-music-production
+*https://www.theguardian.com/technology/2024/apr/13/ai-generated-music-app-suno-ai-impact-musicians-music-rights
